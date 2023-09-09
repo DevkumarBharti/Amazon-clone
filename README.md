@@ -1,3 +1,3 @@
 # Amazon-clone
 Author - Devkumar Bharti
-My fisrt website using Html and Css.
+My fisrt Website using Html and Css.
